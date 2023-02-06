@@ -1,0 +1,22 @@
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.csproj.AssemblyReference.cache
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.AssemblyInfoInputs.cache
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.AssemblyInfo.cs
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.csproj.CoreCompileInputs.cache
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\practica sql.exe
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\practica sql.deps.json
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\practica sql.runtimeconfig.json
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\practica sql.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\practica sql.pdb
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.csproj.CopyComplete
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\refint\practica sql.dll
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.pdb
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\practica sql.genruntimeconfig.cache
+C:\Users\sosak\Desktop\practica sql\practica sql\obj\Debug\net6.0\ref\practica sql.dll
